@@ -11,3 +11,5 @@ TODO
 
 - Rette feil vising av "tittel-strek" i Firefox
 - Gå nøyere igjennom farger og layout og korrigere
+- Forbedre markup
+
